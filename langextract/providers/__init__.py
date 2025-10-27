@@ -33,6 +33,7 @@ from langextract.providers.router import register_lazy
 registry = router  # Backward compat alias
 
 __all__ = [
+    'azure',
     'gemini',
     'openai',
     'ollama',
