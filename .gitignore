@@ -148,7 +148,6 @@ cache/
 # Archives
 *.tar
 *.tar.gz
-*.zip
 *.rar
 *.7z
 *.dmg
